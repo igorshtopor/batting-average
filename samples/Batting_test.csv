@@ -1,0 +1,4 @@
+playerID,yearID,stint,teamID,lgID,G,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,IBB,HBP,SH,SF,GIDP
+abercda01,1871,1,TRO,NA,1,4,0,3,0,0,0,0,0,0,0,0,,,,,0
+abercda01,1871,2,NY2,NA,1,6,0,2,0,0,0,0,0,0,0,0,,,,,0
+abercda02,1872,1,CL1,NA,1,4,0,0,0,0,0,0,0,0,0,0,,,,,0
